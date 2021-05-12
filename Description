@@ -1,0 +1,5 @@
+The project is about: Linked lists, ArrayLists, reading and writing to I/O files, classes, interface, processing data.
+There is interface named Watcheble that has a method String isOnSameTime(TVShow tv).
+There is a class TVShow.
+There is a class ShowList, which has methods for Linked Lists.
+There is the main() method, where all the classes are tested.
